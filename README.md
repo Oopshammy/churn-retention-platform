@@ -2,6 +2,7 @@
 
 > **An Enterprise SaaS Machine Learning & Prescriptive Retention Platform authentically tailored for Indian Telecom Operators. Powered by XGBoost, SHAP Game-Theoretic Explainability, Scikit-Learn, Plotly, and Streamlit in Indian Rupees (₹).**
 
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live%20Demo-6366F1?logo=github&logoColor=white)](https://oopshammy.github.io/churn-retention-platform/)
 [![Python](https://img.shields.io/badge/Python-3.14-3776AB.svg?logo=python&logoColor=white)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.67-FF4B4B.svg?logo=streamlit&logoColor=white)](https://streamlit.io)
 [![XGBoost](https://img.shields.io/badge/XGBoost-3.4-EB4034.svg)](https://xgboost.readthedocs.io)
@@ -9,6 +10,8 @@
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-1.9-F7931E.svg?logo=scikitlearn&logoColor=white)](https://scikit-learn.org)
 [![Plotly](https://img.shields.io/badge/Plotly-7.1-3F4F75.svg?logo=plotly&logoColor=white)](https://plotly.com)
 [![Currency](https://img.shields.io/badge/Currency-INR%20(%E2%82%B9)-10B981.svg)](https://en.wikipedia.org/wiki/Indian_rupee)
+
+> 🌐 **Live Interactive Web Demo (GitHub Pages):** [https://oopshammy.github.io/churn-retention-platform/](https://oopshammy.github.io/churn-retention-platform/)
 
 ---
 
